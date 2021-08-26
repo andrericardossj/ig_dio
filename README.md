@@ -1,7 +1,7 @@
 
 # Olá, bem-vindo ao meu repertório!
 
-Esse é o repositório da aula de Flexbox da DIO, na qual fiz a interface de login do Instagram!
+Esse é o repositório da aula de Flexbox da DIO, na qual fiz a interface de login do Instagram.
 
 **Para fazer esse projeto eu usei:**
 
